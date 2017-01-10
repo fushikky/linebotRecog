@@ -1,0 +1,19 @@
+{
+  "name": "linebotRecog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fushikky",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.13.0",
+    "serverless-offline": "^3.8.3"
+  },
+  "dependencies": {
+    "line-messaging": "^1.1.8",
+    "superagent": "^3.3.1"
+  }
+}
